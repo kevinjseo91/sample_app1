@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - Gemfile
+  - config/initializers/secret_token.rb

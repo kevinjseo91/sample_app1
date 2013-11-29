@@ -1,0 +1,6 @@
+1385688066
+Application	C:/Sites/coding_projects/sample_app/config/application.rb	  class Application 
+ApplicationController	C:/Sites/coding_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/coding_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	C:/Sites/coding_projects/sample_app/config/application.rb	module SampleApp
+secure_token	C:/Sites/coding_projects/sample_app/config/initializers/secret_token.rb	def secure_token

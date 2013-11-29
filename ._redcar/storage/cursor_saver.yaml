@@ -1,0 +1,9 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 105
+    :timestamp: 2013-11-28 20:13:49.618000 -05:00
+  - :path: config/initializers/secret_token.rb
+    :cursor_offset: 641
+    :timestamp: 2013-11-28 20:20:58.535000 -05:00
+files_to_retain: 0
